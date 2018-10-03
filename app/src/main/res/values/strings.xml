@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">intellivize</string>
+    <string name="textRecog">Text Recognition</string>
+    <string name="detectFaces">Detect Faces</string>
+    <string name="recognize">Recognize</string>
+    <string name="detect">Detect</string>
+    <string name="label">Label</string>
+    <string name="labelImage">Label Images</string>
+    <string name="record">Record</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

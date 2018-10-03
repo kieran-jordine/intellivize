@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "16158470102",
+    "firebase_url": "https://intellivize.firebaseio.com",
+    "project_id": "intellivize",
+    "storage_bucket": "intellivize.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16158470102:android:9b08ba7cee23a775",
+        "android_client_info": {
+          "package_name": "com.eularium.intellivize"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16158470102-fuo44lloija59ughlcma17qdmouolnjm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eularium.intellivize",
+            "certificate_hash": "6925fdd5d8a76e707561714915cf57be3e11bd62"
+          }
+        },
+        {
+          "client_id": "16158470102-4rarr18bpgabi1p21ntal1divnesr0r5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvrJqzy-X_dlqUhANSrtLhXHKQRvYRMuE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16158470102-4rarr18bpgabi1p21ntal1divnesr0r5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
